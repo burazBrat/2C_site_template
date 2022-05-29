@@ -6004,13 +6004,6 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"lodash@npm:^4.17.11":
-  version: 4.17.21
-  resolution: "lodash@npm:4.17.21"
-  checksum: 4983720b9abca930a4a46f18db163d7dad8dd00dbed6db0cc7b499b33b717cce69f80928b27bbb1ff2cbd3b19d251ee90669a8b5ea466072ca81c2ebe91e7468
-  languageName: node
-  linkType: hard
-
 "lodash@npm:^4.17.12, lodash@npm:^4.17.13, lodash@npm:^4.17.15, lodash@npm:^4.17.19, lodash@npm:^4.17.20":
   version: 4.17.20
   resolution: "lodash@npm:4.17.20"
@@ -7184,13 +7177,6 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"pathseg@npm:^1.2.0":
-  version: 1.2.0
-  resolution: "pathseg@npm:1.2.0"
-  checksum: 30eff04be62903c71c7f4771f690f0fb250c8cd2e6a643fb92c3974e6066f11c4594594e40e65a3d059b5ba72d5410224a88bb5338fd48c024d067b35c7998a6
-  languageName: node
-  linkType: hard
-
 "pbkdf2@npm:^3.0.3":
   version: 3.1.1
   resolution: "pbkdf2@npm:3.1.1"
@@ -7525,18 +7511,6 @@ fsevents@~2.3.1:
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
   checksum: 11bcf1267a314a522615f626f3ce3727a3a24cdbf61c4d452add3550a7875326669631326cfb1ba3e92b6f72244c32ffecf93ad21c0cad8455d3e169d0e3f060
-  languageName: node
-  linkType: hard
-
-"react-particles-js@npm:3.4.1":
-  version: 3.4.1
-  resolution: "react-particles-js@npm:3.4.1"
-  dependencies:
-    lodash: ^4.17.11
-    tsparticles: ^1.18.10
-  peerDependencies:
-    react: ^16.0.0
-  checksum: 744ea290b91f79f60acc0c9ba67472f0d1c332bc7d6e1b7c75a4a4530799fc7a14a8a70197c43c0fcecb105709ae01d9ffcb5788fc79aa4ceaa0e3605538f1de
   languageName: node
   linkType: hard
 
@@ -8455,7 +8429,6 @@ resolve@^1.14.2:
     prettier: 2.2.1
     react: 17.0.1
     react-dom: 17.0.1
-    react-particles-js: 3.4.1
     twind: 0.15.4
     typescript: 4.1.5
   languageName: unknown
@@ -9045,18 +9018,6 @@ resolve@^1.14.2:
   version: 1.14.1
   resolution: "tslib@npm:1.14.1"
   checksum: f44fe7f216946b17d3e3074df3746372703cf24e9127b4c045511456e8e4bf25515fb0a1bb3937676cc305651c5d4fcb6377b0588a4c6a957e748c4c28905d17
-  languageName: node
-  linkType: hard
-
-"tsparticles@npm:^1.18.10":
-  version: 1.18.12
-  resolution: "tsparticles@npm:1.18.12"
-  dependencies:
-    pathseg: ^1.2.0
-  dependenciesMeta:
-    pathseg:
-      optional: true
-  checksum: e6572ac1c45e76ddcd974d8e0a67d0ede9ee13b0f1279f26f5fe344ba99568c7523ddfcd91508cbe37a1b53bfcc5109936268d2d86de51be3a4db48a761417bc
   languageName: node
   linkType: hard
 
